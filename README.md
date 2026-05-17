@@ -12,7 +12,7 @@ My name is Pantelis and I'm a medical imaging enthusiast!
 ### Stats 📊
 
 <div style="display: flex; flex-direction: row;">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PantelisGeorgiadis&show_icons=true&theme=transparent&hide_rank=true" />
+<img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=PantelisGeorgiadis&show_icons=true&theme=transparent&hide_rank=true" />
 &nbsp;
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PantelisGeorgiadis&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PantelisGeorgiadis&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </div>
