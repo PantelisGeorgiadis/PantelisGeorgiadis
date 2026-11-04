@@ -16,3 +16,13 @@ My name is Pantelis and I'm a medical imaging enthusiast!
 &nbsp;
 <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PantelisGeorgiadis&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </div>
+
+---
+### Bonsai 🪴
+
+<div style="display: flex; flex-direction: row;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bonsai/bonsai-dark.svg">
+  <img alt="My Git Bonsai, grown from my GitHub activity" src="bonsai/bonsai-light.svg" width="400">
+</picture>
+</div>
