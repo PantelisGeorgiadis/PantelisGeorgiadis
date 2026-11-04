@@ -1,0 +1,293 @@
+{
+  "schema": 1,
+  "login": "PantelisGeorgiadis",
+  "kind": "user",
+  "seed": "a0de91b2e41f17bb",
+  "planted": "2010-11-16",
+  "last_grown": "2026-11-03",
+  "trunk": {
+    "height": 24,
+    "girth": 5,
+    "bends": [
+      [
+        0,
+        0
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        12,
+        0
+      ],
+      [
+        17,
+        0
+      ],
+      [
+        23,
+        0
+      ]
+    ]
+  },
+  "branches": [
+    {
+      "repo_id": "lang:TypeScript",
+      "name": "1 repo",
+      "lang": "TypeScript",
+      "color": "#3178c6",
+      "anchor": 3,
+      "side": "left",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 22,
+      "pruned": null
+    },
+    {
+      "repo_id": "lang:C++",
+      "name": "1 repo",
+      "lang": "C++",
+      "color": "#f34b7d",
+      "anchor": 6,
+      "side": "right",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 25,
+      "pruned": null
+    },
+    {
+      "repo_id": "lang:C",
+      "name": "1 repo",
+      "lang": "C",
+      "color": "#555555",
+      "anchor": 9,
+      "side": "left",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 15,
+      "pruned": null
+    },
+    {
+      "repo_id": "lang:HTML",
+      "name": "2 repos",
+      "lang": "HTML",
+      "color": "#e34c26",
+      "anchor": 15,
+      "side": "right",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 13,
+      "pruned": null
+    },
+    {
+      "repo_id": "lang:C#",
+      "name": "0 repos",
+      "lang": "C#",
+      "color": "#7355dd",
+      "anchor": 18,
+      "side": "left",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 11,
+      "pruned": null
+    },
+    {
+      "repo_id": "lang:JavaScript",
+      "name": "10 repos",
+      "lang": "JavaScript",
+      "color": "#f1e05a",
+      "anchor": 21,
+      "side": "right",
+      "length": 7,
+      "pad": 4,
+      "commits_total": 256,
+      "pruned": null
+    }
+  ],
+  "year_cache": {
+    "2010": {},
+    "2011": {},
+    "2012": {},
+    "2013": {},
+    "2014": {},
+    "2015": {},
+    "2016": {},
+    "2017": {},
+    "2018": {},
+    "2019": {},
+    "2020": {
+      "MDEwOlJlcG9zaXRvcnkzMDczNDU3ODQ=": 2
+    },
+    "2021": {
+      "MDEwOlJlcG9zaXRvcnkzMDczNDU3ODQ=": 1,
+      "MDEwOlJlcG9zaXRvcnkzNTg5MjY4OTg=": 10,
+      "R_kgDOGaRPrQ": 3
+    },
+    "2022": {
+      "MDEwOlJlcG9zaXRvcnkzMDczNDU3ODQ=": 1,
+      "MDEwOlJlcG9zaXRvcnkzNTg5MjY4OTg=": 23,
+      "R_kgDOGaRPrQ": 18,
+      "R_kgDOHM3R0w": 8,
+      "R_kgDOHTCJFA": 3,
+      "R_kgDOHYYy6Q": 5,
+      "R_kgDOHfCFdQ": 1,
+      "R_kgDOIAdnFA": 2,
+      "R_kgDOIEgO6A": 2,
+      "R_kgDOITVXhA": 8
+    },
+    "2023": {
+      "MDEwOlJlcG9zaXRvcnkzNTg5MjY4OTg=": 18,
+      "R_kgDOGaRPrQ": 11,
+      "R_kgDOHM3R0w": 2,
+      "R_kgDOHTCJFA": 1,
+      "R_kgDOHYYy6Q": 2,
+      "R_kgDOITVXhA": 3
+    },
+    "2024": {
+      "MDEwOlJlcG9zaXRvcnkzNTg5MjY4OTg=": 11,
+      "R_kgDOGaRPrQ": 9,
+      "R_kgDOHM3R0w": 2,
+      "R_kgDOHYYy6Q": 3,
+      "R_kgDOIEgO6A": 1,
+      "R_kgDOITVXhA": 5
+    },
+    "2025": {
+      "MDEwOlJlcG9zaXRvcnkzMDczNDU3ODQ=": 3,
+      "MDEwOlJlcG9zaXRvcnkzNTg5MjY4OTg=": 17,
+      "R_kgDOGaRPrQ": 4,
+      "R_kgDOHM3R0w": 1,
+      "R_kgDOHYYy6Q": 3,
+      "R_kgDOIEgO6A": 1,
+      "R_kgDOITVXhA": 2,
+      "R_kgDONt8w7w": 11,
+      "R_kgDOPI6gWw": 2,
+      "R_kgDOPZzuYQ": 18
+    }
+  },
+  "history": [
+    {
+      "date": "2020-10",
+      "cells_added": 3
+    },
+    {
+      "date": "2021-04",
+      "cells_added": 3
+    },
+    {
+      "date": "2021-09",
+      "cells_added": 3
+    },
+    {
+      "date": "2022-04",
+      "cells_added": 6
+    },
+    {
+      "date": "2022-05",
+      "cells_added": 3
+    },
+    {
+      "date": "2022-09",
+      "cells_added": 6
+    },
+    {
+      "date": "2022-11",
+      "cells_added": 1
+    },
+    {
+      "date": "2022-12",
+      "cells_added": 3
+    },
+    {
+      "date": "2023-11",
+      "cells_added": 1
+    },
+    {
+      "date": "2025-01",
+      "cells_added": 7
+    },
+    {
+      "date": "2025-04",
+      "cells_added": 3
+    },
+    {
+      "date": "2025-05",
+      "cells_added": 3
+    },
+    {
+      "date": "2026-02-05",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-06",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-07",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-12",
+      "cells_added": 4
+    },
+    {
+      "date": "2026-02-13",
+      "cells_added": 5
+    },
+    {
+      "date": "2026-02-14",
+      "cells_added": 5
+    },
+    {
+      "date": "2026-02-15",
+      "cells_added": 2
+    },
+    {
+      "date": "2026-02-16",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-17",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-18",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-17",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-18",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-19",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-11-03",
+      "cells_added": 1
+    }
+  ],
+  "vitals": {
+    "phase": "growing",
+    "streak_days": 5,
+    "idle_days": 0,
+    "commits_total": 345,
+    "stars_total": 202,
+    "public_repos": 22,
+    "activity_28d": {
+      "lang:C": 0,
+      "lang:C#": 0,
+      "lang:C++": 0,
+      "lang:HTML": 8,
+      "lang:JavaScript": 23,
+      "lang:TypeScript": 0
+    },
+    "grew": {
+      "lang:JavaScript": 1
+    }
+  }
+}
